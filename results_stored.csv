@@ -1,0 +1,9 @@
+su_number,medication,timecode,dose,predicted_time
+28,Zolpidem - Zolpidem,OT,0.5,12-03-2023 02:26:00
+25,Risperdal Consta Powder - Risperdal Consta Powder,OT,1.0,12-03-2023 02:26:00
+25,Valproic Acid - Valproic Acid,BT,1.0,12-03-2023 23:26:00
+25,Depakote - Depakote G/R,BF,1.0,12-03-2023 09:15:00
+330,BLISTER PACK 4 - Blister Pack,LN,1.0,12-03-2023 12:15:00
+26,Lansoprazole - Lansoprazole,BF,1.0,12-03-2023 10:15:00
+26,Lactulose  - Lactulose ,OT,1.0,12-03-2023 02:59:00
+26,Olanzapine - Olanzapine,BF,1.0,12-03-2023 07:15:00
